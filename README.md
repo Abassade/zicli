@@ -1,4 +1,3 @@
-# zicli
 
 # Backend Developer Application Challenge
 
